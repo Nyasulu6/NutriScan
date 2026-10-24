@@ -1,0 +1,34 @@
+{
+  "normal": [
+    "Normal nutritional status",
+    "success",
+    [
+      "Continue exclusive breastfeeding to 6 months, then complementary foods with continued breastfeeding to 24 months.",
+      "Give a diverse diet: staple + legumes + vegetables/fruit + animal-source foods (eggs, fish, milk).",
+      "Keep routine growth monitoring and immunisation, vitamin A and deworming schedules.",
+      "Reinforce hygiene: handwashing, safe water, latrine use."
+    ]
+  ],
+  "moderate": [
+    "Moderate acute malnutrition risk",
+    "warning",
+    [
+      "Enrol in a supplementary feeding programme (e.g. CSB+/RUSF) per national guidelines.",
+      "Increase meal frequency (5-6 small meals/day) and energy-dense foods: groundnut paste, oil, soya, eggs, fish.",
+      "Screen for and treat infections (malaria, diarrhoea, respiratory); give zinc with ORS for diarrhoea.",
+      "Review every 2 weeks (weight, MUAC); refer if no improvement in 4 weeks or if status worsens.",
+      "Counsel caregivers on feeding, hygiene, and household food security / social support."
+    ]
+  ],
+  "severe": [
+    "Severe acute malnutrition risk",
+    "danger",
+    [
+      "URGENT: refer for clinical assessment today (appetite test, oedema check, danger signs).",
+      "Uncomplicated SAM with good appetite: outpatient therapeutic programme with RUTF. With complications or poor appetite: inpatient stabilisation centre (NRU).",
+      "Give routine antibiotics, treat malaria/HIV/TB screening as per protocol; keep the child warm and avoid fluid overload.",
+      "Weekly follow-up until recovery; continue breastfeeding; counsel caregivers.",
+      "Link household to nutrition/food-security and social protection services."
+    ]
+  ]
+}
