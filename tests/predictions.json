@@ -1,0 +1,2002 @@
+[
+  {
+    "input": {
+      "age_months": 38.36560790747303,
+      "weight_kg": 1.7253119014573413,
+      "height_cm": 63.377492061375136,
+      "muac_cm": 9.464214762976455
+    },
+    "status": "severe",
+    "confidence": 0.999999966905164
+  },
+  {
+    "input": {
+      "age_months": 44.18827284984074,
+      "weight_kg": 20.62428513526443,
+      "height_cm": 115.83526325491187,
+      "muac_cm": 6.738776652588323
+    },
+    "status": "severe",
+    "confidence": 0.9971322292977305
+  },
+  {
+    "input": {
+      "age_months": 25.315309181116227,
+      "weight_kg": 1.8641193637040399,
+      "height_cm": 58.584227858306285,
+      "muac_cm": 15.107105762067247
+    },
+    "status": "normal",
+    "confidence": 0.9858513410721886
+  },
+  {
+    "input": {
+      "age_months": 1.5921581810318175,
+      "weight_kg": 6.7662918699128065,
+      "height_cm": 95.24017721125946,
+      "muac_cm": 15.898829612064333
+    },
+    "status": "normal",
+    "confidence": 0.9999999999994509
+  },
+  {
+    "input": {
+      "age_months": 13.226437322441802,
+      "weight_kg": 18.08870483240135,
+      "height_cm": 108.80158881761527,
+      "muac_cm": 5.12997519356122
+    },
+    "status": "severe",
+    "confidence": 0.6692341438849853
+  },
+  {
+    "input": {
+      "age_months": 48.34915510996847,
+      "weight_kg": 21.24604245465858,
+      "height_cm": 68.92129390402931,
+      "muac_cm": 8.10958999623563
+    },
+    "status": "severe",
+    "confidence": 0.9309063480705976
+  },
+  {
+    "input": {
+      "age_months": 57.432784332406875,
+      "weight_kg": 10.761241808266176,
+      "height_cm": 47.88339668731257,
+      "muac_cm": 6.93432753666928
+    },
+    "status": "severe",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 50.849661980847586,
+      "weight_kg": 18.508054909639842,
+      "height_cm": 108.60590322832232,
+      "muac_cm": 19.59463573387636
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 32.17368548728204,
+      "weight_kg": 29.220357155401746,
+      "height_cm": 72.17542206271006,
+      "muac_cm": 16.04081262546454
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 49.764279855179694,
+      "weight_kg": 18.937072818563134,
+      "height_cm": 113.24508652641606,
+      "muac_cm": 16.547042905135243
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 42.27431017289541,
+      "weight_kg": 2.3289071260142045,
+      "height_cm": 59.37135343038148,
+      "muac_cm": 10.787759272042143
+    },
+    "status": "severe",
+    "confidence": 0.9999999590851102
+  },
+  {
+    "input": {
+      "age_months": 4.78751861541765,
+      "weight_kg": 7.7509357044698755,
+      "height_cm": 48.585121499826975,
+      "muac_cm": 10.559472062201841
+    },
+    "status": "severe",
+    "confidence": 0.9727702838407264
+  },
+  {
+    "input": {
+      "age_months": 38.14106665586401,
+      "weight_kg": 11.580133190132443,
+      "height_cm": 71.46538220493503,
+      "muac_cm": 9.190140615429755
+    },
+    "status": "severe",
+    "confidence": 0.9475519337136591
+  },
+  {
+    "input": {
+      "age_months": 16.018669322946803,
+      "weight_kg": 28.162983043662326,
+      "height_cm": 95.08300774596046,
+      "muac_cm": 17.182620113339766
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 10.26831889188582,
+      "weight_kg": 22.144677140560127,
+      "height_cm": 53.88921196976391,
+      "muac_cm": 12.589108835152956
+    },
+    "status": "normal",
+    "confidence": 0.9993537122639193
+  },
+  {
+    "input": {
+      "age_months": 59.371401038195714,
+      "weight_kg": 19.55999303576869,
+      "height_cm": 87.34072822084494,
+      "muac_cm": 18.69228501979749
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 50.57111521138857,
+      "weight_kg": 23.5039974348411,
+      "height_cm": 59.46908611694887,
+      "muac_cm": 5.642004878080755
+    },
+    "status": "severe",
+    "confidence": 0.9999999961084334
+  },
+  {
+    "input": {
+      "age_months": 18.927182883544916,
+      "weight_kg": 8.764485403295378,
+      "height_cm": 57.93354170483775,
+      "muac_cm": 23.85819428670109
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 52.58205758836013,
+      "weight_kg": 10.12565854315586,
+      "height_cm": 95.7122865500648,
+      "muac_cm": 12.912638021213285
+    },
+    "status": "normal",
+    "confidence": 0.9943623915494291
+  },
+  {
+    "input": {
+      "age_months": 54.87285538443261,
+      "weight_kg": 14.306703725034565,
+      "height_cm": 62.51481415233446,
+      "muac_cm": 9.932550153879669
+    },
+    "status": "severe",
+    "confidence": 0.9999988452891211
+  },
+  {
+    "input": {
+      "age_months": 33.682088049789044,
+      "weight_kg": 8.619506647165123,
+      "height_cm": 89.68980916900094,
+      "muac_cm": 22.956457672049538
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 23.964030308423837,
+      "weight_kg": 7.360302015561216,
+      "height_cm": 124.79069655208437,
+      "muac_cm": 15.19052587352929
+    },
+    "status": "normal",
+    "confidence": 0.9999999994011748
+  },
+  {
+    "input": {
+      "age_months": 5.4545647304276335,
+      "weight_kg": 2.3663748873173027,
+      "height_cm": 49.32017607980603,
+      "muac_cm": 17.5489208340618
+    },
+    "status": "normal",
+    "confidence": 0.9999999990364847
+  },
+  {
+    "input": {
+      "age_months": 47.52476186177785,
+      "weight_kg": 13.242639037190838,
+      "height_cm": 45.399855022916356,
+      "muac_cm": 12.632385730130736
+    },
+    "status": "severe",
+    "confidence": 0.9999999999221527
+  },
+  {
+    "input": {
+      "age_months": 59.7672828144058,
+      "weight_kg": 16.344316007874973,
+      "height_cm": 122.54166209715754,
+      "muac_cm": 22.21559404468996
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 0.6888613165691782,
+      "weight_kg": 21.900932761445645,
+      "height_cm": 97.94538136725885,
+      "muac_cm": 15.739406608175903
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 16.00951139715257,
+      "weight_kg": 19.587892158814434,
+      "height_cm": 49.4819347556495,
+      "muac_cm": 13.6953050133821
+    },
+    "status": "normal",
+    "confidence": 0.6856386876255353
+  },
+  {
+    "input": {
+      "age_months": 27.223422379752385,
+      "weight_kg": 28.660661898111325,
+      "height_cm": 114.4474999321465,
+      "muac_cm": 10.267781015021814
+    },
+    "status": "severe",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 30.0351667830179,
+      "weight_kg": 6.180904535373809,
+      "height_cm": 117.57336634430975,
+      "muac_cm": 22.41037139673534
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 17.906687486917974,
+      "weight_kg": 19.52953535111415,
+      "height_cm": 91.76246797224465,
+      "muac_cm": 8.056785370992696
+    },
+    "status": "severe",
+    "confidence": 0.9999938930348267
+  },
+  {
+    "input": {
+      "age_months": 45.750648004509074,
+      "weight_kg": 16.641991873469145,
+      "height_cm": 106.18325068359745,
+      "muac_cm": 15.60707344390355
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999998
+  },
+  {
+    "input": {
+      "age_months": 0.03431376767661032,
+      "weight_kg": 10.400525653135519,
+      "height_cm": 41.65552310279575,
+      "muac_cm": 23.58197232529234
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 52.723312669391056,
+      "weight_kg": 25.118300351474204,
+      "height_cm": 66.13870065922622,
+      "muac_cm": 6.158503329883751
+    },
+    "status": "severe",
+    "confidence": 0.9999039068965457
+  },
+  {
+    "input": {
+      "age_months": 52.680575952242435,
+      "weight_kg": 28.46153391364183,
+      "height_cm": 47.28054342576969,
+      "muac_cm": 14.719809266332275
+    },
+    "status": "severe",
+    "confidence": 0.999999874327558
+  },
+  {
+    "input": {
+      "age_months": 4.152751108103017,
+      "weight_kg": 23.057462792459717,
+      "height_cm": 105.09592649109396,
+      "muac_cm": 7.567829289995256
+    },
+    "status": "severe",
+    "confidence": 0.9999999999937714
+  },
+  {
+    "input": {
+      "age_months": 28.51694268592388,
+      "weight_kg": 16.944304211353373,
+      "height_cm": 62.52981345990503,
+      "muac_cm": 22.448660821705147
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 25.388276412053216,
+      "weight_kg": 7.14214795782038,
+      "height_cm": 85.84016754625395,
+      "muac_cm": 19.598621381799525
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 12.069063803381754,
+      "weight_kg": 10.039772447725953,
+      "height_cm": 124.58769531617605,
+      "muac_cm": 17.997561152789068
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 26.286005034870243,
+      "weight_kg": 16.00969939003213,
+      "height_cm": 50.28535664880259,
+      "muac_cm": 9.493946740631147
+    },
+    "status": "severe",
+    "confidence": 0.9999984870430825
+  },
+  {
+    "input": {
+      "age_months": 20.28513372884732,
+      "weight_kg": 18.060952835259766,
+      "height_cm": 59.55975227070904,
+      "muac_cm": 9.404347689031189
+    },
+    "status": "severe",
+    "confidence": 0.9226556061969674
+  },
+  {
+    "input": {
+      "age_months": 4.259585160541953,
+      "weight_kg": 19.301985760832867,
+      "height_cm": 59.46005162394812,
+      "muac_cm": 23.108400260122558
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 51.57812401522479,
+      "weight_kg": 3.0548631467709497,
+      "height_cm": 60.230393921364595,
+      "muac_cm": 18.379555565925614
+    },
+    "status": "normal",
+    "confidence": 0.9999963850145892
+  },
+  {
+    "input": {
+      "age_months": 12.854208442226316,
+      "weight_kg": 4.837043613025725,
+      "height_cm": 119.51871044935703,
+      "muac_cm": 16.42086186650569
+    },
+    "status": "normal",
+    "confidence": 0.9999999999698723
+  },
+  {
+    "input": {
+      "age_months": 28.36026157870765,
+      "weight_kg": 23.75396330443185,
+      "height_cm": 108.63724481016469,
+      "muac_cm": 8.808198287237554
+    },
+    "status": "severe",
+    "confidence": 0.9999999999971352
+  },
+  {
+    "input": {
+      "age_months": 5.815848853729399,
+      "weight_kg": 13.500484289784948,
+      "height_cm": 76.00418295669326,
+      "muac_cm": 14.3404933607335
+    },
+    "status": "normal",
+    "confidence": 0.9999999999994365
+  },
+  {
+    "input": {
+      "age_months": 43.74455096759104,
+      "weight_kg": 20.527571871505746,
+      "height_cm": 123.65404296610713,
+      "muac_cm": 6.968357423039178
+    },
+    "status": "severe",
+    "confidence": 0.999696995472175
+  },
+  {
+    "input": {
+      "age_months": 24.157276926136127,
+      "weight_kg": 10.839775556453931,
+      "height_cm": 113.24216558998724,
+      "muac_cm": 9.973126678405713
+    },
+    "status": "severe",
+    "confidence": 0.9806772724680132
+  },
+  {
+    "input": {
+      "age_months": 11.41253450644869,
+      "weight_kg": 14.009792887160826,
+      "height_cm": 75.85993938592435,
+      "muac_cm": 10.57090289333881
+    },
+    "status": "severe",
+    "confidence": 0.9999073616038785
+  },
+  {
+    "input": {
+      "age_months": 14.988386872926029,
+      "weight_kg": 27.77470237900437,
+      "height_cm": 77.66611332954383,
+      "muac_cm": 22.22698209523661
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 33.01951874699088,
+      "weight_kg": 2.467061556221556,
+      "height_cm": 124.93900981508176,
+      "muac_cm": 21.72055170159904
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 58.13977543708508,
+      "weight_kg": 27.8646425072357,
+      "height_cm": 112.13913742521596,
+      "muac_cm": 8.32622221207828
+    },
+    "status": "severe",
+    "confidence": 0.9999999999906821
+  },
+  {
+    "input": {
+      "age_months": 29.138467527043108,
+      "weight_kg": 7.198671676776269,
+      "height_cm": 74.08842486670346,
+      "muac_cm": 6.1727079994435785
+    },
+    "status": "severe",
+    "confidence": 0.9999622969325825
+  },
+  {
+    "input": {
+      "age_months": 22.738387138614968,
+      "weight_kg": 29.573956469612053,
+      "height_cm": 62.54225994463292,
+      "muac_cm": 20.681412038971388
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 27.300502040348597,
+      "weight_kg": 13.267217093714724,
+      "height_cm": 121.37199947307222,
+      "muac_cm": 24.908453789854278
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 33.346099404337096,
+      "weight_kg": 21.833839983593453,
+      "height_cm": 53.15773014829545,
+      "muac_cm": 10.934156509891285
+    },
+    "status": "severe",
+    "confidence": 0.9979868799974366
+  },
+  {
+    "input": {
+      "age_months": 58.12256189814953,
+      "weight_kg": 17.79622843367143,
+      "height_cm": 86.0865921168133,
+      "muac_cm": 19.959511207581283
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 3.4299163744489847,
+      "weight_kg": 17.941150239310165,
+      "height_cm": 82.74228254815866,
+      "muac_cm": 22.054397840965706
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 9.445963676368995,
+      "weight_kg": 28.86258819495906,
+      "height_cm": 46.80947454544989,
+      "muac_cm": 8.716499219614464
+    },
+    "status": "severe",
+    "confidence": 0.9999936886302561
+  },
+  {
+    "input": {
+      "age_months": 35.70210638700166,
+      "weight_kg": 20.581164054518613,
+      "height_cm": 59.99233107507915,
+      "muac_cm": 7.397732278942484
+    },
+    "status": "severe",
+    "confidence": 0.9997902967482545
+  },
+  {
+    "input": {
+      "age_months": 53.41723884776625,
+      "weight_kg": 8.14024508587012,
+      "height_cm": 90.5341280503425,
+      "muac_cm": 17.38763020664206
+    },
+    "status": "normal",
+    "confidence": 0.9999999994135294
+  },
+  {
+    "input": {
+      "age_months": 25.153494920152347,
+      "weight_kg": 17.926496389445518,
+      "height_cm": 84.4365308202165,
+      "muac_cm": 23.694125154728546
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 12.255551965412186,
+      "weight_kg": 21.76956222289303,
+      "height_cm": 60.28830597234691,
+      "muac_cm": 12.91571693582509
+    },
+    "status": "normal",
+    "confidence": 0.9999999897077568
+  },
+  {
+    "input": {
+      "age_months": 40.30141337759828,
+      "weight_kg": 9.699915314164105,
+      "height_cm": 66.87506168310759,
+      "muac_cm": 20.03728984828804
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999991
+  },
+  {
+    "input": {
+      "age_months": 4.352586869589439,
+      "weight_kg": 14.290280155938998,
+      "height_cm": 124.8686274726276,
+      "muac_cm": 24.92192895710189
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 4.39564326597798,
+      "weight_kg": 7.181475055744172,
+      "height_cm": 62.542035253784114,
+      "muac_cm": 23.66518755987418
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 52.85185042118637,
+      "weight_kg": 26.49883703205174,
+      "height_cm": 71.40980254280514,
+      "muac_cm": 8.15493664714464
+    },
+    "status": "severe",
+    "confidence": 0.8787514187493561
+  },
+  {
+    "input": {
+      "age_months": 50.02469727838842,
+      "weight_kg": 21.40265782753376,
+      "height_cm": 91.99261008670575,
+      "muac_cm": 24.744661272630086
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 39.23857906264396,
+      "weight_kg": 1.2268701074125805,
+      "height_cm": 109.45385148481424,
+      "muac_cm": 10.987575043999557
+    },
+    "status": "severe",
+    "confidence": 0.998887265463252
+  },
+  {
+    "input": {
+      "age_months": 39.80332289796464,
+      "weight_kg": 28.228970113886014,
+      "height_cm": 51.41474472343626,
+      "muac_cm": 7.308573408382044
+    },
+    "status": "severe",
+    "confidence": 0.9999999984070633
+  },
+  {
+    "input": {
+      "age_months": 6.422158662565058,
+      "weight_kg": 17.04348558565966,
+      "height_cm": 63.14959804675939,
+      "muac_cm": 17.09659654060448
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 43.05673122832788,
+      "weight_kg": 6.904322057496135,
+      "height_cm": 93.91022650523178,
+      "muac_cm": 10.279678032608189
+    },
+    "status": "severe",
+    "confidence": 0.9877767520324978
+  },
+  {
+    "input": {
+      "age_months": 29.311911128962592,
+      "weight_kg": 27.254758241300372,
+      "height_cm": 111.91881563006271,
+      "muac_cm": 6.8459693542546685
+    },
+    "status": "severe",
+    "confidence": 0.9999999999947042
+  },
+  {
+    "input": {
+      "age_months": 25.41454635382358,
+      "weight_kg": 9.023726495195298,
+      "height_cm": 40.301383572461496,
+      "muac_cm": 20.422384460392543
+    },
+    "status": "normal",
+    "confidence": 0.9999998865381088
+  },
+  {
+    "input": {
+      "age_months": 38.22680263808278,
+      "weight_kg": 8.596702610596097,
+      "height_cm": 103.00462720957412,
+      "muac_cm": 16.033608422527827
+    },
+    "status": "normal",
+    "confidence": 0.999999999754563
+  },
+  {
+    "input": {
+      "age_months": 25.66121513884076,
+      "weight_kg": 1.280421288641859,
+      "height_cm": 46.3957281062702,
+      "muac_cm": 22.66212786600286
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 54.23571429359359,
+      "weight_kg": 16.82211838696015,
+      "height_cm": 110.94057669031142,
+      "muac_cm": 16.65019132979588
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 8.88562713404896,
+      "weight_kg": 4.695920059182024,
+      "height_cm": 66.20195974406136,
+      "muac_cm": 22.9796297748518
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 47.7673382932825,
+      "weight_kg": 25.96037487802618,
+      "height_cm": 116.40859410475034,
+      "muac_cm": 9.20153076679508
+    },
+    "status": "severe",
+    "confidence": 0.9999999999998217
+  },
+  {
+    "input": {
+      "age_months": 14.971784353375465,
+      "weight_kg": 3.9810150284817833,
+      "height_cm": 106.30988055907262,
+      "muac_cm": 22.68269402902018
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 24.382643389927008,
+      "weight_kg": 18.999183794370673,
+      "height_cm": 53.13703375823739,
+      "muac_cm": 23.597620313873488
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 51.87634177319784,
+      "weight_kg": 29.309974954997923,
+      "height_cm": 108.91559619493374,
+      "muac_cm": 22.62832409326649
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 1.4871817138913235,
+      "weight_kg": 22.36036968089738,
+      "height_cm": 68.23576477544644,
+      "muac_cm": 23.61631772096651
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 48.13410833622834,
+      "weight_kg": 26.057856822883103,
+      "height_cm": 108.91369190882307,
+      "muac_cm": 10.33611419188944
+    },
+    "status": "severe",
+    "confidence": 0.9999999999999956
+  },
+  {
+    "input": {
+      "age_months": 47.24247054812827,
+      "weight_kg": 4.134773165685756,
+      "height_cm": 114.13417654701763,
+      "muac_cm": 22.171865026755633
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 13.346023052739866,
+      "weight_kg": 24.68101156231094,
+      "height_cm": 79.12577494771008,
+      "muac_cm": 11.103817346772011
+    },
+    "status": "severe",
+    "confidence": 0.9999999999999853
+  },
+  {
+    "input": {
+      "age_months": 47.720729949171705,
+      "weight_kg": 7.60026913482534,
+      "height_cm": 42.01147694962338,
+      "muac_cm": 8.862595766554174
+    },
+    "status": "severe",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 19.69571707186239,
+      "weight_kg": 26.066235318878302,
+      "height_cm": 122.18557384411069,
+      "muac_cm": 10.582499854437428
+    },
+    "status": "severe",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 38.48890431645766,
+      "weight_kg": 12.590673146441766,
+      "height_cm": 123.39772341185211,
+      "muac_cm": 15.724314649574438
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999869
+  },
+  {
+    "input": {
+      "age_months": 56.35422841948294,
+      "weight_kg": 4.3449108036914,
+      "height_cm": 122.48405193688937,
+      "muac_cm": 8.571356323449272
+    },
+    "status": "severe",
+    "confidence": 0.8995248593857903
+  },
+  {
+    "input": {
+      "age_months": 57.75205894569333,
+      "weight_kg": 8.69852451316609,
+      "height_cm": 49.21421651325044,
+      "muac_cm": 13.691275171292887
+    },
+    "status": "severe",
+    "confidence": 0.9999999991799782
+  },
+  {
+    "input": {
+      "age_months": 43.71270363916226,
+      "weight_kg": 10.096642111654745,
+      "height_cm": 91.52775253102217,
+      "muac_cm": 15.228461193389562
+    },
+    "status": "normal",
+    "confidence": 0.9999999882658744
+  },
+  {
+    "input": {
+      "age_months": 23.111726000683632,
+      "weight_kg": 17.721053261401387,
+      "height_cm": 61.65141302177946,
+      "muac_cm": 19.175705676683414
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 0.10147669311776797,
+      "weight_kg": 27.841679799473397,
+      "height_cm": 85.76841975288731,
+      "muac_cm": 19.38859998289691
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 44.51700467036859,
+      "weight_kg": 20.448226628556984,
+      "height_cm": 70.95882510140746,
+      "muac_cm": 6.399476222526204
+    },
+    "status": "severe",
+    "confidence": 0.9879902070439972
+  },
+  {
+    "input": {
+      "age_months": 39.85426109467634,
+      "weight_kg": 10.575801045235295,
+      "height_cm": 66.68282982996057,
+      "muac_cm": 21.96030559012671
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 43.18525578083701,
+      "weight_kg": 9.70934577812666,
+      "height_cm": 66.28919628773552,
+      "muac_cm": 13.167858172384337
+    },
+    "status": "normal",
+    "confidence": 0.5137476130012214
+  },
+  {
+    "input": {
+      "age_months": 24.144023223463478,
+      "weight_kg": 9.574000873252464,
+      "height_cm": 50.81946292002802,
+      "muac_cm": 13.408926675458165
+    },
+    "status": "severe",
+    "confidence": 0.9329069250863532
+  },
+  {
+    "input": {
+      "age_months": 56.421820243810984,
+      "weight_kg": 20.642220412909253,
+      "height_cm": 116.73847138726953,
+      "muac_cm": 17.31029831902761
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 18.05699247393392,
+      "weight_kg": 16.89017918093525,
+      "height_cm": 40.03450487426944,
+      "muac_cm": 10.738274337378543
+    },
+    "status": "severe",
+    "confidence": 0.9999999999944058
+  },
+  {
+    "input": {
+      "age_months": 25.793288999390075,
+      "weight_kg": 17.81955865467478,
+      "height_cm": 95.64997801476109,
+      "muac_cm": 14.299763804940284
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 26.529587958288445,
+      "weight_kg": 7.197340628683908,
+      "height_cm": 80.22082580229272,
+      "muac_cm": 23.023616516565085
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 47.761485607606815,
+      "weight_kg": 5.921050489743587,
+      "height_cm": 47.20762062163535,
+      "muac_cm": 15.309040198304329
+    },
+    "status": "severe",
+    "confidence": 0.999998834211726
+  },
+  {
+    "input": {
+      "age_months": 37.976451345947744,
+      "weight_kg": 10.720459406884226,
+      "height_cm": 109.56599448561646,
+      "muac_cm": 20.022762750814643
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 40.36774023343002,
+      "weight_kg": 7.5145793139213595,
+      "height_cm": 56.92604428175902,
+      "muac_cm": 5.488507754536527
+    },
+    "status": "severe",
+    "confidence": 0.9999999999996807
+  },
+  {
+    "input": {
+      "age_months": 14.69055264470101,
+      "weight_kg": 14.77895398234535,
+      "height_cm": 112.22770404310221,
+      "muac_cm": 6.456564583691382
+    },
+    "status": "severe",
+    "confidence": 0.6539467343367281
+  },
+  {
+    "input": {
+      "age_months": 24.86646065986316,
+      "weight_kg": 19.263196041393698,
+      "height_cm": 56.52699512287529,
+      "muac_cm": 18.9270850098101
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999996
+  },
+  {
+    "input": {
+      "age_months": 29.662630140626217,
+      "weight_kg": 8.075548747774727,
+      "height_cm": 95.76493094450166,
+      "muac_cm": 5.110896362760635
+    },
+    "status": "severe",
+    "confidence": 0.6497856933545281
+  },
+  {
+    "input": {
+      "age_months": 45.057868597108374,
+      "weight_kg": 23.33133946864673,
+      "height_cm": 49.05992020790081,
+      "muac_cm": 13.502923878854682
+    },
+    "status": "severe",
+    "confidence": 0.9999938133298851
+  },
+  {
+    "input": {
+      "age_months": 10.5532009023919,
+      "weight_kg": 28.781015226106653,
+      "height_cm": 84.02640878771797,
+      "muac_cm": 6.004367702812818
+    },
+    "status": "severe",
+    "confidence": 0.9999999962544546
+  },
+  {
+    "input": {
+      "age_months": 14.9518967795983,
+      "weight_kg": 25.601754073198133,
+      "height_cm": 78.79925516496468,
+      "muac_cm": 21.028332034445288
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 40.054663955181184,
+      "weight_kg": 29.648881138926992,
+      "height_cm": 90.61344706990067,
+      "muac_cm": 24.000792168863118
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 53.48555554862622,
+      "weight_kg": 18.76691736009112,
+      "height_cm": 101.1382867084572,
+      "muac_cm": 15.09556329648804
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999996
+  },
+  {
+    "input": {
+      "age_months": 49.834150183284905,
+      "weight_kg": 16.888286567714022,
+      "height_cm": 116.26268877482728,
+      "muac_cm": 19.873108843191698
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 28.4804662093832,
+      "weight_kg": 8.516554905485561,
+      "height_cm": 61.01537768832107,
+      "muac_cm": 17.753228735523123
+    },
+    "status": "normal",
+    "confidence": 0.9999999999185836
+  },
+  {
+    "input": {
+      "age_months": 45.948821057829925,
+      "weight_kg": 16.11769457201148,
+      "height_cm": 93.27361714345142,
+      "muac_cm": 10.491948938350767
+    },
+    "status": "severe",
+    "confidence": 0.9996735497513108
+  },
+  {
+    "input": {
+      "age_months": 4.649001231884149,
+      "weight_kg": 9.286116375031423,
+      "height_cm": 63.09578410198569,
+      "muac_cm": 11.394191368375246
+    },
+    "status": "severe",
+    "confidence": 0.9157446627588924
+  },
+  {
+    "input": {
+      "age_months": 32.409133351107386,
+      "weight_kg": 5.012847783968516,
+      "height_cm": 59.65722577689588,
+      "muac_cm": 18.878996245981046
+    },
+    "status": "normal",
+    "confidence": 0.9999999999175955
+  },
+  {
+    "input": {
+      "age_months": 42.385148501673136,
+      "weight_kg": 2.862636670702464,
+      "height_cm": 74.64594642165987,
+      "muac_cm": 15.852222810078306
+    },
+    "status": "normal",
+    "confidence": 0.9957786892212329
+  },
+  {
+    "input": {
+      "age_months": 24.946454046189356,
+      "weight_kg": 6.9981972959178975,
+      "height_cm": 75.71219901074119,
+      "muac_cm": 23.096769566803538
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 35.04476485225351,
+      "weight_kg": 21.170166608441075,
+      "height_cm": 112.82222274583441,
+      "muac_cm": 20.31189152236139
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 22.8228617356627,
+      "weight_kg": 1.170986423935799,
+      "height_cm": 69.8994982271051,
+      "muac_cm": 20.069502501187717
+    },
+    "status": "normal",
+    "confidence": 0.9999999999996694
+  },
+  {
+    "input": {
+      "age_months": 51.206877034146274,
+      "weight_kg": 28.649479815633082,
+      "height_cm": 75.61680902353486,
+      "muac_cm": 19.950313379561017
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 32.76793858403035,
+      "weight_kg": 18.494325079295997,
+      "height_cm": 58.74578901752461,
+      "muac_cm": 9.388432692428722
+    },
+    "status": "severe",
+    "confidence": 0.9888962316200416
+  },
+  {
+    "input": {
+      "age_months": 26.150158562798197,
+      "weight_kg": 1.8417197784547419,
+      "height_cm": 68.5710112143625,
+      "muac_cm": 18.582837700566994
+    },
+    "status": "normal",
+    "confidence": 0.9999999995463968
+  },
+  {
+    "input": {
+      "age_months": 24.259000148258224,
+      "weight_kg": 5.786297204901755,
+      "height_cm": 79.72816268474637,
+      "muac_cm": 7.552555945623213
+    },
+    "status": "severe",
+    "confidence": 0.9230478727487019
+  },
+  {
+    "input": {
+      "age_months": 37.33541765844388,
+      "weight_kg": 1.7820271052489929,
+      "height_cm": 73.4917217888749,
+      "muac_cm": 16.287839660495482
+    },
+    "status": "normal",
+    "confidence": 0.9993031082107481
+  },
+  {
+    "input": {
+      "age_months": 1.6261227804187461,
+      "weight_kg": 19.63973979227074,
+      "height_cm": 51.53445641459796,
+      "muac_cm": 14.233968881030234
+    },
+    "status": "normal",
+    "confidence": 0.9999951118952716
+  },
+  {
+    "input": {
+      "age_months": 3.017078009317653,
+      "weight_kg": 11.994012061456047,
+      "height_cm": 57.99112415797593,
+      "muac_cm": 11.536916097626172
+    },
+    "status": "normal",
+    "confidence": 0.9524601918033512
+  },
+  {
+    "input": {
+      "age_months": 45.67378247364162,
+      "weight_kg": 11.994660251359953,
+      "height_cm": 103.9208350021567,
+      "muac_cm": 21.638485703105452
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 15.136291906942835,
+      "weight_kg": 3.375280750087634,
+      "height_cm": 41.64757939925091,
+      "muac_cm": 15.788380958450674
+    },
+    "status": "normal",
+    "confidence": 0.9922321360630962
+  },
+  {
+    "input": {
+      "age_months": 59.99446971055255,
+      "weight_kg": 11.148849967885333,
+      "height_cm": 95.26224792623938,
+      "muac_cm": 20.624660992217898
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 39.105279314633364,
+      "weight_kg": 22.87276291772626,
+      "height_cm": 120.71699728085905,
+      "muac_cm": 8.987213647250659
+    },
+    "status": "severe",
+    "confidence": 0.9999999999760931
+  },
+  {
+    "input": {
+      "age_months": 1.2228010392199407,
+      "weight_kg": 5.419088027758921,
+      "height_cm": 50.72878286430753,
+      "muac_cm": 18.38917689239821
+    },
+    "status": "normal",
+    "confidence": 0.9999999999984299
+  },
+  {
+    "input": {
+      "age_months": 33.83817491580115,
+      "weight_kg": 7.320971686288606,
+      "height_cm": 99.45452255592282,
+      "muac_cm": 20.337961967124816
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 10.067348602068137,
+      "weight_kg": 18.610177322837018,
+      "height_cm": 103.5736804161993,
+      "muac_cm": 7.290657427577953
+    },
+    "status": "severe",
+    "confidence": 0.9999945460394092
+  },
+  {
+    "input": {
+      "age_months": 49.1580704586651,
+      "weight_kg": 28.97690241798854,
+      "height_cm": 49.188393720896556,
+      "muac_cm": 5.51356850994932
+    },
+    "status": "severe",
+    "confidence": 0.9999999999999993
+  },
+  {
+    "input": {
+      "age_months": 18.71743466368171,
+      "weight_kg": 20.643071318661853,
+      "height_cm": 121.44469124750115,
+      "muac_cm": 12.933088830332547
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 42.90088230296811,
+      "weight_kg": 3.203897857448739,
+      "height_cm": 98.70222535430332,
+      "muac_cm": 17.544847912020888
+    },
+    "status": "normal",
+    "confidence": 0.9999998160507827
+  },
+  {
+    "input": {
+      "age_months": 6.114078326758592,
+      "weight_kg": 23.401945663585497,
+      "height_cm": 112.27492532254769,
+      "muac_cm": 17.00823229633688
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 7.2633039040389065,
+      "weight_kg": 29.531486193925467,
+      "height_cm": 106.52400444068667,
+      "muac_cm": 11.94407530616898
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 25.702680794084667,
+      "weight_kg": 11.74655541032363,
+      "height_cm": 83.00666712255162,
+      "muac_cm": 11.824623497225664
+    },
+    "status": "normal",
+    "confidence": 0.9998929914591286
+  },
+  {
+    "input": {
+      "age_months": 50.97453761997464,
+      "weight_kg": 24.847596624611686,
+      "height_cm": 48.970804004739875,
+      "muac_cm": 24.215751344291572
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 38.13510636608675,
+      "weight_kg": 25.032512019071287,
+      "height_cm": 100.12123471501654,
+      "muac_cm": 13.709742900153541
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 44.027718240803516,
+      "weight_kg": 28.998738205904253,
+      "height_cm": 62.95700369292907,
+      "muac_cm": 21.16398437613512
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 32.290374386895344,
+      "weight_kg": 15.021427612612687,
+      "height_cm": 77.02383190533101,
+      "muac_cm": 19.620524286102444
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 16.10373228295352,
+      "weight_kg": 25.699681640560623,
+      "height_cm": 110.6121366057013,
+      "muac_cm": 6.7332579611134875
+    },
+    "status": "severe",
+    "confidence": 0.9999999999924434
+  },
+  {
+    "input": {
+      "age_months": 52.897871040166315,
+      "weight_kg": 8.072039736537723,
+      "height_cm": 79.5002196612747,
+      "muac_cm": 17.206634084610414
+    },
+    "status": "normal",
+    "confidence": 0.9999999904352007
+  },
+  {
+    "input": {
+      "age_months": 22.739358247695844,
+      "weight_kg": 1.832299935332598,
+      "height_cm": 112.33099108655902,
+      "muac_cm": 8.636797143153835
+    },
+    "status": "severe",
+    "confidence": 0.9999804164372286
+  },
+  {
+    "input": {
+      "age_months": 12.72719101078434,
+      "weight_kg": 24.137138348014798,
+      "height_cm": 68.92880166896411,
+      "muac_cm": 22.606399595164508
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 42.071025019932094,
+      "weight_kg": 9.011788696929361,
+      "height_cm": 40.86284472728755,
+      "muac_cm": 23.961251555540624
+    },
+    "status": "normal",
+    "confidence": 0.9999999999996503
+  },
+  {
+    "input": {
+      "age_months": 5.136777717481276,
+      "weight_kg": 21.882165259021633,
+      "height_cm": 81.52911698214692,
+      "muac_cm": 20.163293069649328
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 41.43656036679138,
+      "weight_kg": 19.731184092487617,
+      "height_cm": 81.71981348167982,
+      "muac_cm": 20.858657362646348
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 5.5832010332803,
+      "weight_kg": 7.426295613703374,
+      "height_cm": 98.80190820009216,
+      "muac_cm": 11.124120602601767
+    },
+    "status": "severe",
+    "confidence": 0.9975717214976372
+  },
+  {
+    "input": {
+      "age_months": 34.89333511994203,
+      "weight_kg": 14.724554174026219,
+      "height_cm": 85.12836414739027,
+      "muac_cm": 13.510076254104295
+    },
+    "status": "normal",
+    "confidence": 0.999999998937988
+  },
+  {
+    "input": {
+      "age_months": 44.756126202816574,
+      "weight_kg": 10.592947618681974,
+      "height_cm": 99.74267008579037,
+      "muac_cm": 10.418328539523927
+    },
+    "status": "severe",
+    "confidence": 0.9321964290339084
+  },
+  {
+    "input": {
+      "age_months": 15.084220572056491,
+      "weight_kg": 4.499020657816869,
+      "height_cm": 56.36966494337898,
+      "muac_cm": 7.391094825101057
+    },
+    "status": "severe",
+    "confidence": 0.999997527813771
+  },
+  {
+    "input": {
+      "age_months": 32.151837923024985,
+      "weight_kg": 23.103498675038985,
+      "height_cm": 55.73773660720127,
+      "muac_cm": 9.327692797572114
+    },
+    "status": "severe",
+    "confidence": 0.9951377954919156
+  },
+  {
+    "input": {
+      "age_months": 29.05191523276252,
+      "weight_kg": 22.012965031698496,
+      "height_cm": 123.01159694505982,
+      "muac_cm": 15.492737382172157
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 16.979922196497302,
+      "weight_kg": 3.9152571346329323,
+      "height_cm": 56.49999413774124,
+      "muac_cm": 9.549663269651095
+    },
+    "status": "severe",
+    "confidence": 0.9997003056567546
+  },
+  {
+    "input": {
+      "age_months": 10.7664926211242,
+      "weight_kg": 1.4103026504258511,
+      "height_cm": 85.40148258775139,
+      "muac_cm": 10.486226535665345
+    },
+    "status": "severe",
+    "confidence": 0.9999220170535138
+  },
+  {
+    "input": {
+      "age_months": 58.45769586616427,
+      "weight_kg": 17.04741003715964,
+      "height_cm": 99.28047839736652,
+      "muac_cm": 7.5255898591681785
+    },
+    "status": "severe",
+    "confidence": 0.9975704108637857
+  },
+  {
+    "input": {
+      "age_months": 52.10767183577664,
+      "weight_kg": 15.235482141189587,
+      "height_cm": 114.18117747487544,
+      "muac_cm": 16.481284392526646
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999998
+  },
+  {
+    "input": {
+      "age_months": 28.16381669583061,
+      "weight_kg": 13.773595145944297,
+      "height_cm": 55.67091198315695,
+      "muac_cm": 6.027534343671556
+    },
+    "status": "severe",
+    "confidence": 0.9999999882841643
+  },
+  {
+    "input": {
+      "age_months": 56.463815806086195,
+      "weight_kg": 14.854146430704944,
+      "height_cm": 109.87982985045159,
+      "muac_cm": 13.014148845038795
+    },
+    "status": "normal",
+    "confidence": 0.9999999674015094
+  },
+  {
+    "input": {
+      "age_months": 4.444930215338387,
+      "weight_kg": 19.253925501607952,
+      "height_cm": 44.556771314865316,
+      "muac_cm": 7.983951689473104
+    },
+    "status": "severe",
+    "confidence": 0.9999999427317083
+  },
+  {
+    "input": {
+      "age_months": 33.770375825073856,
+      "weight_kg": 9.811229843424602,
+      "height_cm": 124.48304043036872,
+      "muac_cm": 7.369031244229232
+    },
+    "status": "severe",
+    "confidence": 0.9999979695820495
+  },
+  {
+    "input": {
+      "age_months": 45.86660671957166,
+      "weight_kg": 18.58321188604592,
+      "height_cm": 107.21297053669065,
+      "muac_cm": 9.513742741300693
+    },
+    "status": "severe",
+    "confidence": 0.999994481156831
+  },
+  {
+    "input": {
+      "age_months": 31.35435210781307,
+      "weight_kg": 14.064919481773874,
+      "height_cm": 77.63128534164291,
+      "muac_cm": 22.2033333165236
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 59.40187562800787,
+      "weight_kg": 9.856027085261452,
+      "height_cm": 92.78732229113263,
+      "muac_cm": 17.192618244902604
+    },
+    "status": "normal",
+    "confidence": 0.9999999998069828
+  },
+  {
+    "input": {
+      "age_months": 44.4053583290727,
+      "weight_kg": 28.48011580943596,
+      "height_cm": 57.66197199500186,
+      "muac_cm": 9.22050390610786
+    },
+    "status": "severe",
+    "confidence": 0.9949267649253799
+  },
+  {
+    "input": {
+      "age_months": 39.6256882315222,
+      "weight_kg": 5.554655708045437,
+      "height_cm": 54.77415160774693,
+      "muac_cm": 6.5012973780233585
+    },
+    "status": "severe",
+    "confidence": 0.9999999999995097
+  },
+  {
+    "input": {
+      "age_months": 0.16054335617314397,
+      "weight_kg": 14.06460743391337,
+      "height_cm": 90.47395158516288,
+      "muac_cm": 10.825185780620552
+    },
+    "status": "severe",
+    "confidence": 0.9999999947362754
+  },
+  {
+    "input": {
+      "age_months": 13.88857407336155,
+      "weight_kg": 21.501719066491965,
+      "height_cm": 99.75394243796596,
+      "muac_cm": 14.080626528140865
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 41.24309520427457,
+      "weight_kg": 27.79342028999391,
+      "height_cm": 106.96538226497216,
+      "muac_cm": 17.501160143284437
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 39.67098257120207,
+      "weight_kg": 28.076385294919884,
+      "height_cm": 76.13681211885799,
+      "muac_cm": 15.891247574211572
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 38.85808340414884,
+      "weight_kg": 27.343931911165576,
+      "height_cm": 110.26364857025507,
+      "muac_cm": 6.4281967371162825
+    },
+    "status": "severe",
+    "confidence": 0.9999999989972121
+  },
+  {
+    "input": {
+      "age_months": 9.955367353243481,
+      "weight_kg": 9.920742565812743,
+      "height_cm": 103.66140637591798,
+      "muac_cm": 16.384140986381848
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999998
+  },
+  {
+    "input": {
+      "age_months": 17.316635298350505,
+      "weight_kg": 4.606256087066539,
+      "height_cm": 98.53762925302797,
+      "muac_cm": 18.994673699514344
+    },
+    "status": "normal",
+    "confidence": 0.9999999999999973
+  },
+  {
+    "input": {
+      "age_months": 56.56057444464245,
+      "weight_kg": 15.513693136419842,
+      "height_cm": 81.97259364433216,
+      "muac_cm": 6.608837037986019
+    },
+    "status": "severe",
+    "confidence": 0.99945926980874
+  },
+  {
+    "input": {
+      "age_months": 2.391647051016783,
+      "weight_kg": 13.528831260662404,
+      "height_cm": 67.3973345854555,
+      "muac_cm": 10.007358048240079
+    },
+    "status": "severe",
+    "confidence": 0.9874059693154085
+  },
+  {
+    "input": {
+      "age_months": 5.479613197859113,
+      "weight_kg": 28.895421963592266,
+      "height_cm": 111.0564821820254,
+      "muac_cm": 16.50398218439861
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 57.04717666838114,
+      "weight_kg": 29.98760008944609,
+      "height_cm": 97.14393466577533,
+      "muac_cm": 10.390220519341078
+    },
+    "status": "severe",
+    "confidence": 0.9999999999999996
+  },
+  {
+    "input": {
+      "age_months": 2.4139003886769705,
+      "weight_kg": 22.931796081964155,
+      "height_cm": 79.99256997638885,
+      "muac_cm": 18.030189788673727
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 54.96436727560605,
+      "weight_kg": 6.263185269470652,
+      "height_cm": 89.75301814861763,
+      "muac_cm": 17.695694389081737
+    },
+    "status": "normal",
+    "confidence": 0.9999999883342726
+  },
+  {
+    "input": {
+      "age_months": 29.503548131460803,
+      "weight_kg": 3.6460297825209884,
+      "height_cm": 69.57668978504529,
+      "muac_cm": 11.666167873301841
+    },
+    "status": "severe",
+    "confidence": 0.8155020428106164
+  },
+  {
+    "input": {
+      "age_months": 40.208010571271124,
+      "weight_kg": 25.874259737610227,
+      "height_cm": 68.03331140421206,
+      "muac_cm": 18.87347347966865
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 17.293067721687343,
+      "weight_kg": 28.410612647333107,
+      "height_cm": 109.15311295272767,
+      "muac_cm": 16.00193217943566
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 27.289554516103767,
+      "weight_kg": 10.12099755793487,
+      "height_cm": 67.47827183345954,
+      "muac_cm": 24.403694536171542
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 24.250503420044737,
+      "weight_kg": 15.923291317544049,
+      "height_cm": 123.9901332564491,
+      "muac_cm": 18.15320772966258
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 32.5556156614317,
+      "weight_kg": 12.984179553180324,
+      "height_cm": 55.944516018534806,
+      "muac_cm": 12.235587183033505
+    },
+    "status": "severe",
+    "confidence": 0.9629769774403579
+  },
+  {
+    "input": {
+      "age_months": 45.38658924333442,
+      "weight_kg": 19.13685352220526,
+      "height_cm": 104.59919556518645,
+      "muac_cm": 9.071164767005477
+    },
+    "status": "severe",
+    "confidence": 0.9999808432417265
+  },
+  {
+    "input": {
+      "age_months": 32.9531783451199,
+      "weight_kg": 27.902510064488983,
+      "height_cm": 77.23986808115215,
+      "muac_cm": 18.965000582443444
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 7.28556500175719,
+      "weight_kg": 29.22125765882914,
+      "height_cm": 91.75409170196701,
+      "muac_cm": 9.785949246553008
+    },
+    "status": "severe",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 9.502689828313944,
+      "weight_kg": 16.97433120307743,
+      "height_cm": 86.9413697695673,
+      "muac_cm": 6.8641840256304505
+    },
+    "status": "severe",
+    "confidence": 0.8895815860813739
+  },
+  {
+    "input": {
+      "age_months": 59.53542836371318,
+      "weight_kg": 27.47496647604087,
+      "height_cm": 79.22307100519659,
+      "muac_cm": 7.3493229817911505
+    },
+    "status": "severe",
+    "confidence": 0.9888167878335239
+  },
+  {
+    "input": {
+      "age_months": 49.92859042613407,
+      "weight_kg": 15.452889636508663,
+      "height_cm": 100.91128270930224,
+      "muac_cm": 15.177440301390234
+    },
+    "status": "normal",
+    "confidence": 0.9999999999998335
+  },
+  {
+    "input": {
+      "age_months": 16.40549380279645,
+      "weight_kg": 25.206994421724136,
+      "height_cm": 123.32079377128692,
+      "muac_cm": 9.874618121502767
+    },
+    "status": "severe",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 33.07590461282818,
+      "weight_kg": 12.123994384167348,
+      "height_cm": 118.35879274418276,
+      "muac_cm": 15.16481783185788
+    },
+    "status": "normal",
+    "confidence": 0.9999999999998312
+  },
+  {
+    "input": {
+      "age_months": 52.75957530878857,
+      "weight_kg": 26.056781098429056,
+      "height_cm": 63.48102923987348,
+      "muac_cm": 20.800123640062267
+    },
+    "status": "normal",
+    "confidence": 1.0
+  },
+  {
+    "input": {
+      "age_months": 24.89654541308071,
+      "weight_kg": 28.093203416793084,
+      "height_cm": 83.1577024438208,
+      "muac_cm": 21.410989463711566
+    },
+    "status": "normal",
+    "confidence": 1.0
+  }
+]
